@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Namastē🙏 & Jhōrlē 🫴everyone 🧑👧 </h1>
-<p>I'm Ashik Rana Magar</p>
+<p align="center">I'm Ashik Rana Magar</p>
 
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif"  />
