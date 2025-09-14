@@ -8,10 +8,7 @@
 
 <h1 align="left">About Me</h1>
 <p align="center">
-I believe technology can shape the future, and I’m excited to contribute through coding.  
-I enjoy building creative digital experiences, exploring new tools, and continuously improving.  
-Beyond tech, I balance life with music and games, while sharing knowledge and growing together.  
-This journey is just beginning, and I’m eager for what’s ahead!   
+I believe technology has the power to shape the future and I’m excited to be part of that journey through coding. I enjoy building creative and meaningful digital experiences, constantly exploring the latest technologies, and pushing myself to grow with every project.<br> Whether I'm experimenting with new tools, picking up a new programming language, or just unwinding with music and games, I strive to maintain a healthy balance between learning and living. I'm a strong believer in continuous improvement and love sharing knowledge with others helping and growing together is something I truly value. <br> This journey in tech is just getting started, and I’m looking forward to everything it has in store!  
 </p>
 
 
