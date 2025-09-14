@@ -29,3 +29,8 @@ This journey in tech is just getting started, and I’m looking forward to every
 <a href="https://www.leetcode.com/ashik981945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashik981945" height="30" width="40" /></a>
 <a href="https://discord.gg/laurevai." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="laurevai." height="30" width="40" /></a>
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
