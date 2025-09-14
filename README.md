@@ -14,8 +14,7 @@ I believe technology has the power to shape the future and I’m excited to be p
 
 
 
-## 🔭 Current Focus
-<p>....</p>
+
 
 
 <h1 align="left">💻 Tech Stack</h1>
