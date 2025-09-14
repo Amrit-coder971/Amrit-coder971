@@ -8,9 +8,9 @@
 
 <h1 align="left">About Me</h1>
 <h3 align="center">
-I believe technology can shape the future and I’m excited to contribute through coding.  
-I enjoy building meaningful digital experiences,exploring new tools and continuously improving.  
-Beyond tech, I value balance,creativity, and sharing knowledge to grow together.  
+I believe technology can shape the future and I’m excited to contribute through coding.  <br>
+I enjoy building meaningful digital experiences,exploring new tools and continuously improving.  <br>
+Beyond tech, I value balance,creativity, and sharing knowledge to grow together. <br>
 This journey has just begun and I’m excited for what lies ahead!  
 </h3>
 
