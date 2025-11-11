@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Namastē🙏 & Jhōrlē 🫴everyone 🧑👧 </h1>
+<h1 align="center">Hello everyone 🧑👧 </h1>
 <p align="center">I'm Ashik Rana Magar</p>
 
 <div align="center">
