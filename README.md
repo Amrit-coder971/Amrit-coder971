@@ -26,12 +26,6 @@ I believe technology has the power to shape the future and I’m excited to be p
 <h1 align="left">📞Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/ashik rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashik rana" height="30" width="40" /></a>
-<a href="https://fb.com/ashik rana magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashik rana magar" height="30" width="40" /></a>
-<a href="https://instagram.com/amrit_magar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrit_magar15" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amritmagar15-e5n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amritmagar15-e5n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashik981945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashik981945" height="30" width="40" /></a>
-<a href="https://discord.gg/laurevai." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="laurevai." height="30" width="40" /></a>
-</p>
 
 
 
