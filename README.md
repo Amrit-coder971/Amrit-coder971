@@ -27,8 +27,11 @@
 
 ## **📫 Connect with Me**  
 
-[![ YouTube Channel](www.youtube.com/@FTS5-e5n) [![Instagram](https://www.instagram.com/laurevai15) [![Facebook](https://www.facebook.com/lahure.shows) [![Email](cbro1799@gmail.com
-)
+- **YouTube Channel**: @FTS5-e5n
+- **Instagram** : laurevai15
+- **Facebook **: Ashik  Magar
+- **Email** :cbro1799@gmail.com
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
