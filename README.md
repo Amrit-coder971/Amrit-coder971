@@ -1,6 +1,6 @@
 
 I'm **Ashik Rana**  
-###I am a student currently in my 5th semester of BCA.**
+###**I am a student currently in my 5th semester of BCA.**
 
 ## **💡 About Me**  
 
