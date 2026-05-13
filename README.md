@@ -27,7 +27,8 @@
 
 ## **📫 Connect with Me**  
 
-[![ YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](www.youtube.com/@FTS5-e5n) [![Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/laurevai15) [![Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/lahure.shows) 
+[![ YouTube Channel](www.youtube.com/@FTS5-e5n) [![Instagram](https://www.instagram.com/laurevai15) [![Facebook](https://www.facebook.com/lahure.shows) [![Email](cbro1799@gmail.com
+)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
