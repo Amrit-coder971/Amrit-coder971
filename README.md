@@ -24,18 +24,17 @@
 * Improving coding skills
   
 #### 💡 Interests & 🎯 Goals:
-
-   **🚀 Git-Push Module**
-* **Routine:** Daily habit of pushing high-quality Git code.
-* **Logic:** Building scalable projects that solve real-world problems.
+     **🚀 Git-Push Module**
+        * **Routine:** Daily habit of pushing high-quality Git code.
+        * **Logic:** Building scalable projects that solve real-world problems.
 
     **💻 Clean-Code**
-* **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code.
-* **Execution:** Continuous learning in Full-Stack development (Frontend & Backend).
+        * **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code.
+        * **Execution:** Continuous learning in Full-Stack development (Frontend & Backend).
 
     **🦾 Physical-Discipline Protocol**
-* **Optimization:** Maintaining high performance through calisthenics or GYM .
-* **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
+        * **Optimization:** Maintaining high performance through calisthenics or GYM .
+        * **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
 
 
 
