@@ -9,10 +9,7 @@
 
 ## **💡 About Me**  
 
-
-<div align="center">
-
-## 🛠 Tech Stack & Skills
+ 🛠 Tech Stack & Skills
 
 ### 💻 Programming Languages
 <p align="center">
@@ -40,7 +37,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
 </p>
 
-</div>
 
 🔹 **Interests & Goals:**  
 #### 🚀 Git-Push Module
