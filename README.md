@@ -41,15 +41,15 @@
 🔹 **Interests & Goals:**  
 #### 🚀 Git-Push Module
 * **Routine:** Daily habit of pushing high-quality Git code.
-* **Logic:** Building scalable projects that solve real-world problems[cite: 1].
+* **Logic:** Building scalable projects that solve real-world problems.
 
 #### 💻 Clean-Code Engine
-* **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code[cite: 1].
-* **Execution:** Continuous learning in Full-Stack development (Frontend & Backend)[cite: 1].
+* **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code.
+* **Execution:** Continuous learning in Full-Stack development (Frontend & Backend).
 
 #### 🦾 Physical-Discipline Protocol (Calisthenics)
-* **Optimization:** Maintaining high performance through calisthenics[cite: 1].
-* **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined[cite: 1].
+* **Optimization:** Maintaining high performance through calisthenics or GYM .
+* **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
 
 
 
