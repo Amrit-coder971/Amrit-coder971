@@ -29,8 +29,9 @@
 
 - **YouTube Channel**: @FTS5-e5n
 - **Instagram** : laurevai15
-- **Facebook **: Ashik  Magar
+- **Facebook**: Ashik  Magar
 - **Email** :cbro1799@gmail.com
+- **Linked** : https://www.linkedin.com/in/ashik-rana-7546b22a7
 
 
 <div align="center">
