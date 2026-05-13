@@ -5,7 +5,7 @@ I'm **Ashik Rana**
 ## **💡 About Me**  
 
 
-## 🛠 Tech Stack & Skills
+ 🛠 Tech Stack & Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
