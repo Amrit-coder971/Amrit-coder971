@@ -1,15 +1,14 @@
 
 
-<div align="center">
+### <h3 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">ASHIK RANA</a> 〽️ </h3>
 
-# 🤖 Hello, I'm Ashik Rana Magar
-*"Building a successful career and a better future in the IT industry through clean, efficient code."*
-</div>
+<h5 align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h5>
+<div align="center">
 
 
 ## **💡 About Me**  
 
- 🛠 Tech Stack & Skills
+ **🛠 Tech Stack & Skills**
 
 ### 💻 Programming Languages
 <p align="center">
