@@ -3,7 +3,7 @@
 
 <h3  align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h3>
 
-<div align="center">
+<div align="center" ,width="100">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFrazJ1ZzYzd2Y4MDIxN3cyZmxoOHR5Y200djhsZGtvZG9uMWVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
 </div>
   
