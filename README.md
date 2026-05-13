@@ -1,15 +1,14 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 ### <h1 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">ASHIK RANA</a> 〽️ </h1>
 
 <h3  align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <div align="center">
 
-  <img width="200" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
- 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
   
 </div>
   
