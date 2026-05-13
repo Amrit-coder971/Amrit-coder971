@@ -1,6 +1,6 @@
 
 I'm **Ashik Rana**  
-###**I am a student currently in my 5th semester of BCA.**
+**I am a student currently in my 5th semester of BCA.**
 
 ## **💡 About Me**  
 
@@ -16,7 +16,7 @@ I'm **Ashik Rana**
 
 
 🔹 **Interests & Goals:**  
-- **Coding & Git**: I enjoy the daily habit of pushing Git code and building projects that solve real-world problems.
+- **🚀Coding & Git**: I enjoy the daily habit of pushing Git code and building projects that solve real-world problems.
 - **Future in IT**: I am driven by a strong focus on writing clean, efficient code to build a successful career and a better future in the IT industry.  
 - **Calisthenics**: I stay disciplined through calisthenics, focusing on bodyweight strength and functional movement.
 
@@ -27,5 +27,39 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NsNmc2eG14b25ia2RtN2g4c
 
 
 
+## 🤖 System Overview: Ashik-v5.0
 
+> **Status:** BCA Student (5th Semester)  
+> **Core Objective:** Building a successful career and a better future in the IT industry through clean, efficient code.
+
+---
+
+### 🔹 Sub-Protocols & Modules
+
+#### 🚀 Git-Push Module
+* **Routine:** Daily habit of pushing high-quality Git code.
+* **Logic:** Building scalable projects that solve real-world problems[cite: 1].
+
+#### 💻 Clean-Code Engine
+* **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code[cite: 1].
+* **Execution:** Continuous learning in Full-Stack development (Frontend & Backend)[cite: 1].
+
+#### 🦾 Physical-Discipline Protocol (Calisthenics)
+* **Optimization:** Maintaining high performance through calisthenics[cite: 1].
+* **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined[cite: 1].
+
+---
+
+### 🛠 Active Tech Stack
+
+| Module | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> |
+| **Frameworks** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> |
+
+---
+
+### 📂 Major Projects Log
+* **Student Attendance Management System:** Digitizing academic records to eliminate errors[cite: 1].
+* **Fitness Tracker:** Advanced workout logger for disciplined progress tracking[cite: 1].
 
