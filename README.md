@@ -1,8 +1,8 @@
+
+
 <div align="center">
 
 # 🤖 Hello, I'm Ashik Rana Magar
-**BCA Student (5th Semester)**
-
 *"Building a successful career and a better future in the IT industry through clean, efficient code."*
 </div>
 
