@@ -23,7 +23,7 @@
 #### 🌱 Currently learning:
 * Improving coding skills
   
-#### Interests & Goals:
+#### 💡 Interests & 🎯 Goals:
 **🚀 Git-Push Module**
 * **Routine:** Daily habit of pushing high-quality Git code.
 * **Logic:** Building scalable projects that solve real-world problems.
