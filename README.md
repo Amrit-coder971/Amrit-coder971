@@ -1,8 +1,6 @@
 
 I'm **Ashik Rana**  
-I am a student currently in my 5th semester of BCA. I have a strong 
-          focus on full-stack development, with a passion for 
-          both frontend and backend technologies.**
+###I am a student currently in my 5th semester of BCA.**
 
 ## **💡 About Me**  
 
