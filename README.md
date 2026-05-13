@@ -17,7 +17,8 @@ I'm **Ashik Rana**
 
 🔹 **Interests & Goals:**  
 - **Coding & Git**: I enjoy the daily habit of pushing Git code and building projects that solve real-world problems.
-
+-**Future in IT**: I am driven by a strong focus on writing clean, efficient code to build a successful career and a better future in the IT industry.  
+-**Calisthenics**: I stay disciplined through calisthenics, focusing on bodyweight strength and functional movement.
 
 </div>
   <img justify-content: center;
