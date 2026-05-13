@@ -1,8 +1,8 @@
 
 
-### <h3 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">ASHIK RANA</a> 〽️ </h3>
+### <h1 align="center">नमस्ते (Namaste), I am <a href="https://premgautam.com.np/" target="_blank">ASHIK RANA</a> 〽️ </h1>
 
-<h5 align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h5>
+<h3  align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h3>
 
 <div align="center">
 
