@@ -1,8 +1,9 @@
+<div align="center">
 
-I'm **Ashik Rana**  
-**I am a student currently in my 5th semester of BCA.
-Building a successful career and a better future in the IT industry through clean, efficient code.**
+# 🤖 Hello, I'm Ashik Rana Magar
+**BCA Student (5th Semester)**
 
+*"Building a successful career and a better future in the IT industry through clean, efficient code."*
 ## **💡 About Me**  
 
 
