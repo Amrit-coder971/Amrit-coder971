@@ -4,10 +4,21 @@
 
 <h5 align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h5>
 
+div align="center">
 
+
+  <img width="350" src=" https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Banner Image"/> 
+
+  <img width="200" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Banner Image"/>
+ 
+  <br/> 
+  
+  [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
+  
 ## **💡 About Me**  
 
- **🛠 Tech Stack & Skills**
+###  **🛠 Tech Stack & Skills**
 
 ### 💻 Programming Languages
 <p align="center">
