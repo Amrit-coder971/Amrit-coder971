@@ -4,8 +4,16 @@
 <h3  align="center"> Building a successful career and a better future in the IT industry through clean, efficient code. </h3>
 
 <div align="center" >
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFrazJ1ZzYzd2Y4MDIxN3cyZmxoOHR5Y200djhsZGtvZG9uMWVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="25%" height="150px" style="object-fit: cover;" />
-</div>
+<img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFrazJ1ZzYzd2Y4MDIxN3cyZmxoOHR5Y200djhsZGtvZG9uMWVtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" 
+    style="
+      width: 300px; 
+      height: 300px; 
+      object-fit: cover; 
+      clip-path: polygon(50% 0%, 82% 12%, 98% 41%, 91% 75%, 67% 97%, 33% 97%, 9% 75%, 2% 41%, 18% 12%);
+    " 
+    alt="Matrix Nonagon"
+  /></div>
   
 ## **💡 About Me**  
 
