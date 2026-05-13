@@ -23,10 +23,6 @@
 * **Optimization:** Maintaining high performance through calisthenics or GYM .
 * **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
 
-## **📫 Connect with Me**  
-
-📧 **Email me at:** cbro1799@gmail.com
- 
 
 ## 🔗 I am a Content Creator. 😊😊
 
