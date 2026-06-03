@@ -10,7 +10,6 @@
       width: 300px; 
       height: 300px; 
       object-fit: cover; 
-      clip-path: polygon(50% 0%, 82% 12%, 98% 41%, 91% 75%, 67% 97%, 33% 97%, 9% 75%, 2% 41%, 18% 12%);
     " 
     alt="Matrix Nonagon"
   /></div>
