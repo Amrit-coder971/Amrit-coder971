@@ -36,7 +36,7 @@
 
 **🦾 Physical-Discipline Protocol**
   
-* **Optimization:** Maintaining high performance through calisthenics or GYM .
+* **Optimization:** Maintaining high performance through calisthenics -> GYM  ->  Hyrox
 * **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
 
 
