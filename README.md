@@ -34,13 +34,6 @@
 * **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code.
 * **Execution:** Continuous learning in Full-Stack development (Frontend & Backend).
 
-**🦾 Physical-Discipline Protocol**
-  
-* **Optimization:** Maintaining high performance through calisthenics -> GYM  ->  Hyrox
-* **Focus:** Strengthening bodyweight foundations and functional movement to stay disciplined.
-
-
-
 ## **📫 Connect with Me**  
 
 - **Instagram** : laurevai15
