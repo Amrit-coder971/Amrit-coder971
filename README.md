@@ -24,7 +24,9 @@
   
 #### 💡 Interests & 🎯 Goals:
 
-* Java Spring Boots / React / Video Eiditing 
+* Java Spring Boots
+* React
+* Video Eiditing 
 
 
 
