@@ -24,22 +24,10 @@
   
 #### 💡 Interests & 🎯 Goals:
 
-**🚀 Git-Push Module**
+**Java Spring Boots / React / Video Eiditing **
 
-* **Routine:** Daily habit of pushing high-quality Git code.
-* **Logic:** Building scalable projects that solve real-world problems.
 
- **💻 Clean-Code**
-  
-* **Focus:** Driven by a strong focus on writing optimized, efficient, and readable code.
-* **Execution:** Continuous learning in Full-Stack development (Frontend & Backend).
 
-## **📫 Connect with Me**  
-
-- **Instagram** : laurevai15
-- **Email** : cbro1799@gmail.com
-- **Linked** : https://www.linkedin.com/in/ashik-rana-7546b22a7
-- **kick**:laurevai
 
 
 <div align="center">
